@@ -1,0 +1,10 @@
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.csproj.AssemblyReference.cache
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.Principal.resources
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.Properties.Resources.resources
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.csproj.GenerateResource.cache
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\bin\Debug\DesafioTarget.exe.config
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\bin\Debug\DesafioTarget.exe
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\bin\Debug\DesafioTarget.pdb
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.exe
+C:\Users\guilh\Downloads\Desafio_Target\DesafioTarget\obj\Debug\DesafioTarget.pdb
